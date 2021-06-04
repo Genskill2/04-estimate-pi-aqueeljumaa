@@ -38,4 +38,3 @@ float c=1;
  float x=2*s;
 return x;
 }
-
